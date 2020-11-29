@@ -1,0 +1,15 @@
+/*
+    Custom bulma variable overrides.
+    Milan Donhowe   5.6.20
+*/
+$bloody-tangerine: rgb(245, 78, 0);
+$warning: #D3555B;
+$yellow: $bloody-tangerine;
+$info: #BF3E42;
+$success: #BEE7E8;
+$danger:#726DA8;
+$primary:#594157;
+$tag-background-color:#fffffc;
+$tag-color:#232323;
+
+@import "~bulma/bulma";
